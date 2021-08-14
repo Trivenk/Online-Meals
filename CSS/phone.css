@@ -1,0 +1,38 @@
+#navbar{
+    flex-direction: column;
+    /* flex-wrap: wrap; */
+}
+#navbar ul li a{
+    font-size: 1rem;
+    padding:0px 7px;
+}
+#home{
+    height:370px;
+    padding: 0px 36px;
+}
+#home::before{
+    height:505px;
+}
+#home p{
+    font-size: 15px;
+}
+.service-cont{
+    flex-direction: column;
+}
+.clients{
+    flex-wrap: wrap;
+}
+.box{
+    margin: 15px 61px;
+}
+.contact-section form{
+    width:80%;
+}
+.h-primary{
+    font-size: 25px;
+}
+.btn{
+    font-size: 11px;
+    margin: 0px;
+    padding: 2px;
+}
